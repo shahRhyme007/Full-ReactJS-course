@@ -1,0 +1,12 @@
+.studentCSS{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    padding: 10px;
+    border: 1px solid hsla(0, 2%, 48%, 0.412);
+}
+
+
+/* for classes we have to use . in the beginning like (.rhyme) but for the accessing the elements inside of the class we dont have to use . */
+.studentCSS p{
+    margin: 0;
+}
