@@ -1,0 +1,13 @@
+/* Remember that the name of the file is Button.module.css */
+
+.button{
+    /* EXTERNAL styling method */
+    background-color: aqua;
+    color: white;
+    padding: 10px 20ps;
+    border-radius: 5px;
+    /* removing the border */
+    border: none;
+    /* changing the cursor when hovering over the button */
+    cursor: pointer  
+  }
