@@ -1,0 +1,21 @@
+.welcomeMessage{
+    font-size: 2.5em;
+    background-color: hsl(63, 72%, 78%);
+    color: hsl(0, 29%, 52%);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0;
+    width: fit-content;
+    
+}
+
+.loginPrompt{
+    font-size: 2.5em;
+    background-color: hsl(0, 100%, 12%);
+    color: hsl(0, 51%, 53%);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0;
+    width: fit-content;
+
+}
