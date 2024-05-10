@@ -1,0 +1,27 @@
+.listCategory{
+    font-size: 2.5em;
+    color: rgb(0, 198, 205);
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 20px ;
+    background-color: rgb(157, 42, 165);
+    
+}
+
+.listItemCSS li{
+    font-size: large;
+    text-align: center;
+    list-style-position:inside;
+    color: hsl(125, 72%, 33%);
+    margin:  0;
+    border: 1px solid;
+    
+}
+
+.listItemCSS li:hover{
+    color: hsl(125, 72%, 66%);
+    cursor: pointer;
+
+}
